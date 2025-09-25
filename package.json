@@ -1,0 +1,24 @@
+{
+  "name": "lite-cv-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "prerender": "vite prerender",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.544.0",
+    "markdown-to-jsx": "^7.7.13",
+    "preact": "^10.27.2",
+    "preact-iso": "^2.10.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.2",
+    "typescript": "~5.8.3",
+    "unocss": "^66.5.1",
+    "vite": "^7.1.7"
+  }
+}
